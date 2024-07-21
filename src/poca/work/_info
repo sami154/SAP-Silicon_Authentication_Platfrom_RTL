@@ -1,0 +1,387 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1
+vcounter
+Z0 !s110 1693195843
+!i10b 1
+!s100 0Zz64jkE>5;FDHQ1eNMPJ3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBF_Mc:H47<_io[h529dJe1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca
+Z4 w1654060592
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/counter.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/counter.v
+!i122 0
+L0 2 28
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1693195843.000000
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/counter.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+Enandgate
+R4
+Z9 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z10 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R3
+Z11 8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nandgate.vhd
+Z12 FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nandgate.vhd
+l0
+Z13 L32 1
+V^ELb7f7Q4gTBVG5HZg]=R1
+!s100 iQ;kGEoFbc;naB^;VN;jn1
+Z14 OV;C;2020.1;71
+32
+R0
+!i10b 1
+R6
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nandgate.vhd|
+Z16 !s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nandgate.vhd|
+!i113 1
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Abehavioral
+R9
+R10
+DEx4 work 8 nandgate 0 22 ^ELb7f7Q4gTBVG5HZg]=R1
+!i122 1
+l40
+L38 6
+VU8M6<K8THRCnRAcof>2jQ2
+!s100 dzHz8;4XH=PzR2M^@Q[Zg3
+R14
+32
+R0
+!i10b 1
+R6
+R15
+R16
+!i113 1
+R17
+R18
+vnlfsr_128
+R0
+!i10b 1
+!s100 V5Y3UoAGehY^;K6fo?X`S1
+R1
+IA4J]0RhOE[hI;n`X:?Gm]3
+R2
+R3
+R4
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nfsr_128.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nfsr_128.v
+!i122 2
+L0 2 33
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nfsr_128.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/nfsr_128.v|
+!i113 1
+R7
+R8
+Enotgate
+R4
+R9
+R10
+!i122 3
+R3
+Z19 8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/notgate.vhd
+Z20 FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/notgate.vhd
+l0
+R13
+VJT_ZP4:leQ]iFg7;a5HgZ1
+!s100 8<SOQGzUAC]>A?:eHh7ij1
+R14
+32
+R0
+!i10b 1
+R6
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/notgate.vhd|
+Z22 !s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/notgate.vhd|
+!i113 1
+R17
+R18
+Abehavioral
+R9
+R10
+DEx4 work 7 notgate 0 22 JT_ZP4:leQ]iFg7;a5HgZ1
+!i122 3
+l39
+L37 5
+VzU=XZ2@S3P^jTVC;4ok;F1
+!s100 FH7<[BTfGe`17mizGkDAb1
+R14
+32
+R0
+!i10b 1
+R6
+R21
+R22
+!i113 1
+R17
+R18
+Ero
+R4
+R9
+R10
+!i122 4
+R3
+Z23 8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro.vhd
+Z24 FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro.vhd
+l0
+R13
+Vni^RITddMDa0eD?_?oDz00
+!s100 ?;fS2Q`Q_jQciA[TCi8kj0
+R14
+32
+R0
+!i10b 1
+R6
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro.vhd|
+Z26 !s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro.vhd|
+!i113 1
+R17
+R18
+Abehavioral
+R9
+R10
+DEx4 work 2 ro 0 22 ni^RITddMDa0eD?_?oDz00
+!i122 4
+l55
+L37 41
+VkamgMZh6zHDI7B@M[j;;M2
+!s100 <>4lL2kKTa@:jIflGm3P53
+R14
+32
+R0
+!i10b 1
+R6
+R25
+R26
+!i113 1
+R17
+R18
+vro_trng1
+R0
+!i10b 1
+!s100 PPl6J]]<]d^UgCHXCY8FG2
+R1
+Ia0550SiMBA6AdQ:5dTi0R1
+R2
+R3
+w1693194011
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro_trng1.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro_trng1.v
+!i122 5
+L0 2 54
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro_trng1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/ro_trng1.v|
+!i113 1
+R7
+R8
+Eserial_multiplier_283
+R4
+Z27 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z28 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R9
+R10
+!i122 6
+R3
+Z29 8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/serial_multiplier_283.vhd
+Z30 FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/serial_multiplier_283.vhd
+l0
+L19 1
+Vh?oR6haUBcVVo;@e?=B2:3
+!s100 4Bb^To21^bJM[iEFh^FQ11
+R14
+32
+R0
+!i10b 1
+R6
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/serial_multiplier_283.vhd|
+Z32 !s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/serial_multiplier_283.vhd|
+!i113 1
+R17
+R18
+Abehave
+R27
+R28
+R9
+R10
+DEx4 work 21 serial_multiplier_283 0 22 h?oR6haUBcVVo;@e?=B2:3
+!i122 6
+l53
+L33 68
+VD2hO;mn]KMRCEejV9WSKJ3
+!s100 jL5DjAZ1nn6QXAG;AXn0R1
+R14
+32
+R0
+!i10b 1
+R6
+R31
+R32
+!i113 1
+R17
+R18
+vsha256_core
+R0
+!i10b 1
+!s100 ?`Lgh=<Eh:IIIhF_gDkj31
+R1
+IOeJm>mU>Ik67_[oL_7>Z^2
+R2
+R3
+R4
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_core.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_core.v
+!i122 7
+L0 42 507
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_core.v|
+!i113 1
+R7
+R8
+vsha256_k_constants
+R0
+!i10b 1
+!s100 ^Va[i]`UHR6fPm8Lic>3H3
+R1
+I`J_n1cVfh9]D_TT_RkXFZ2
+R2
+R3
+R4
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_k_constants.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_k_constants.v
+!i122 8
+L0 41 90
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_k_constants.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_k_constants.v|
+!i113 1
+R7
+R8
+vsha256_w_mem
+R0
+!i10b 1
+!s100 9TMSK2D2^;=[>7@>^7^Q62
+R1
+IILnAiQBIODYakEN@IFMZm2
+R2
+R3
+R4
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_w_mem.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_w_mem.v
+!i122 9
+L0 42 227
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_w_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/sha256_w_mem.v|
+!i113 1
+R7
+R8
+vtb_top_poca_primitive_v1
+Z33 !s110 1693195844
+!i10b 1
+!s100 Ud7_^c]eHoWK_1;@^PD[I3
+R1
+IbzlZo^HV:mS6aPj^dCSUm1
+R2
+R3
+w1654060828
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/tb_top_poca_primitive_v1.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/tb_top_poca_primitive_v1.v
+!i122 10
+L0 2 124
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/tb_top_poca_primitive_v1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/tb_top_poca_primitive_v1.v|
+!i113 1
+R7
+R8
+vtop_auth_128
+R33
+!i10b 1
+!s100 L9>U1]P?kQh2dTHmGXlQ_3
+R1
+IE^TSiIC[1MV1C9AUXkVVN0
+R2
+R3
+R4
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_auth_128.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_auth_128.v
+!i122 11
+L0 2 70
+R5
+r1
+!s85 0
+31
+Z34 !s108 1693195844.000000
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_auth_128.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_auth_128.v|
+!i113 1
+R7
+R8
+vtop_poca_primitive_v1
+R33
+!i10b 1
+!s100 n4JJWFJizVBU^OFRKzH^12
+R1
+IIo];177m=Y<AK]TlXCz9Y3
+R2
+R3
+w1693193944
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_poca_primitive_v1.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_poca_primitive_v1.v
+!i122 12
+L0 3 250
+R5
+r1
+!s85 0
+31
+R34
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_poca_primitive_v1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/poca/top_poca_primitive_v1.v|
+!i113 1
+R7
+R8

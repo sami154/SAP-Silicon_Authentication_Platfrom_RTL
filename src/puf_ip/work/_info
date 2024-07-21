@@ -1,0 +1,150 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1
+vadd_generator
+!s110 1686286566
+!i10b 1
+!s100 l`ePHlMnK[0GbLA^VJ<h=3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?S7nZAYBM3QfV2^[I>fcW3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip
+w1686286563
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/add_generator.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/add_generator.v
+!i122 83
+L0 1 123
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1686286566.000000
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/add_generator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/add_generator.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdecoder
+Z6 !s110 1686282455
+!i10b 1
+!s100 Tj_dNnMOBI9c4lG:O=41Q0
+R0
+IoSEj49GB7YPfYOMmS>;D@0
+R1
+R2
+w1662125999
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/Decoder_ECC.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/Decoder_ECC.v
+!i122 71
+L0 1 70
+R3
+r1
+!s85 0
+31
+Z7 !s108 1686282455.000000
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/Decoder_ECC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/Decoder_ECC.v|
+!i113 1
+R4
+R5
+vdecoder_top
+!s110 1686292128
+!i10b 1
+!s100 BO:j3I8=iS54Uzhbi0=i:0
+R0
+I2bUN?AUS_Qf058Oj1h]3C1
+R1
+R2
+w1686292125
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/DECODER_256.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/DECODER_256.v
+!i122 98
+L0 2 122
+R3
+r1
+!s85 0
+31
+!s108 1686292128.000000
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/DECODER_256.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/DECODER_256.v|
+!i113 1
+R4
+R5
+vsingle_port_ram
+R6
+!i10b 1
+!s100 fnZKSADT@gEafR^Je0O;A2
+R0
+IQN:k:z;Fm^c5od7LNTM312
+R1
+R2
+w1686105693
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/sram1_hardcode.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/sram1_hardcode.v
+!i122 72
+L0 23 77
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/sram1_hardcode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/sram1_hardcode.v|
+!i113 1
+R4
+R5
+vtb_PUF
+!s110 1686287692
+!i10b 1
+!s100 ?m1b_jOhEdfha;P808cOQ1
+R0
+I<WaKA_B5g2Y=X0ZS3P>`43
+R1
+R2
+w1686287688
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/tb_addgen.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/tb_addgen.v
+!i122 94
+L0 2 70
+R3
+r1
+!s85 0
+31
+!s108 1686287692.000000
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/tb_addgen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/tb_addgen.v|
+!i113 1
+R4
+R5
+ntb_@p@u@f
+vwrapper_puf
+!s110 1686287410
+!i10b 1
+!s100 >LDN6:mX;WX]F5FVDUP651
+R0
+ICOJL0^Bf0]XXJCDC7FR600
+R1
+R2
+w1686287406
+8D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/wrapper_puf.v
+FD:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/wrapper_puf.v
+!i122 92
+L0 1 124
+R3
+r1
+!s85 0
+31
+!s108 1686287410.000000
+!s107 D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/wrapper_puf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - University of Florida/PhD courses/Research/My Research/SAP_STAMP/SAP/Secure_Authentication_Platform-main/Secure_Authentication_Platform_v1/src/puf_ip/wrapper_puf.v|
+!i113 1
+R4
+R5
