@@ -6,10 +6,10 @@ The increasing complexity of system-on-chip (SoC) designs, prompted by the integ
 **Note:** Please cite our paper if SAP IP is useful for your research.
 
 @inproceedings{sami2024sap, <br>
-  title={SAP: Silicon Authentication Platform for System-on-Chip Supply Chain Vulnerabilities},
-  author={Sami, Md Sami Ul Islam and Zhou, Jingbo and Saha, Sujan Kumar and Rahman, Fahim and Farahmandi, Farimah and Tehranipoor, Mark},
-  booktitle={2024 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
-  pages={109--119},
-  year={2024},
-  organization={IEEE}
-}
+  title={SAP: Silicon Authentication Platform for System-on-Chip Supply Chain Vulnerabilities}, <br>
+  author={Sami, Md Sami Ul Islam and Zhou, Jingbo and Saha, Sujan Kumar and Rahman, Fahim and Farahmandi, Farimah and Tehranipoor, Mark}, <br>
+  booktitle={2024 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)}, <br>
+  pages={109--119}, <br>
+  year={2024}, <br>
+  organization={IEEE} <br>
+} 
